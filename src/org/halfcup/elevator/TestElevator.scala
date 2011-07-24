@@ -2,6 +2,7 @@ package org.halfcup.elevator
 
 /**
  * Let's test EGit
+ * Ok
  */
 
 object TestElevator {
